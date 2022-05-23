@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Covid 19 -seuranta ja uutiset</string>
+    <string name="news_title">Covid 19 -seuranta ja uutiset</string>
+    <string name="news_author">Covid 19 -seuranta ja uutiset</string>
+    <string name="published_time">Covid 19 -seuranta ja uutiset</string>
+    <string name="cases">Tapaukset</string>
+    <string name="today_cases">Tapausten määrä tänään</string>
+    <string name="deaths">Kuolemat</string>
+    <string name="today_deaths">Kuolemien määrä tänään</string>
+    <string name="my_location">Minun sijaintini</string>
+    <string name="full_view">Täysi näkymä</string>
+    <string name="back_button">Mene takaisin</string>
+    <string name="country_name_hint">Kirjoita maan nimi tähän</string>
+    <string name="today_recovered">Tänään palautunut</string>
+    <string name="recovered">Palautunut</string>
+</resources>
