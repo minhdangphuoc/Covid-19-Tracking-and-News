@@ -9,4 +9,4 @@
 
 ## More details
 
-- [Link To Project Diary](Study_Diary_Minh_Dang-56-67.pdf) 
+- [Link To Project Diary](Study%20Diary%20Minh%20Dang-56-67.pdf) 
